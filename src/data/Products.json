@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10,
+      "imgUrl": "https://jooinn.com/images/opened-book-4.jpg"
+    },
+    {
+      "id": 2,
+      "name": "laptop",
+      "price": 800,
+      "imgUrl": "https://th.bing.com/th/id/R.b1ec5bc05f529d4a6c1696b21a515450?rik=F9qc43QVqXXHlQ&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f05%2fLaptop-PNG.png&ehk=XZH0Y69sWL2EL80oXAA%2fZ0HnEWh%2b1LMRt5tfn5f20R4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 3,
+      "name": "tv",
+      "price": 400,
+      "imgUrl": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/15085c6b-0f7c-4ae0-b813-967613ec8d11.70ba2fbc5e2dfb42fbda8ae86e56452b.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": 4,
+      "name": "Washer",
+      "price": 550,
+      "imgUrl": "https://ak1.ostkcdn.com/images/products/17374917/LG-DLEX8100V-9.0-cu.-ft.-Mega-Capacity-Electric-Dryer-w-Steam-Technology-in-Graphite-Steel-9e1c9e88-d32d-461f-984d-f08e0a97fb0b_600.jpg"
+    }
+  ]
